@@ -10,7 +10,7 @@ summary: >
 
 import torch.nn as nn
 import torch.utils.data
-from labml_helpers.module import Module
+from labml_helpers.module import Module 
 
 from labml import tracker
 from labml.configs import option
